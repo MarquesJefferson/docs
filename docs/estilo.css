@@ -1,0 +1,48 @@
+body
+    font-family: cursive;
+    background-color: #b9ccfd;
+    color: #060d21;
+}
+
+.nome{
+    text-align: center;
+    font-size:xx-large;
+}
+
+/* https://www.w3schools.com/css/css_margin.asp */
+.headernome{
+    margin: 0% 0% 10% 0%;
+}7
+
+section{
+    margin-top: 0%;
+    margin-right: 15%;
+    margin-bottom: 5%;
+    margin-left: 15%;
+}
+
+.listmenu{
+    list-style: none;
+    display: inline;
+    padding: 2%;
+    border: solid;
+    border-color: #6d72d5;
+}
+
+.linkmenu{
+    text-decoration: none;
+}
+.listmenu:hover{
+    background-color: rgba(255, 255, 255, 0.541);
+    border: none;
+}
+
+#formacao{
+    background-color: #b3b3ef;
+}
+#hobbies{
+    background-color: #b3b3ef;
+}
+#contato{
+    background-color: #b3b3ef;
+}
